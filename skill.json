@@ -1,0 +1,13 @@
+{
+  "name": "genpark-knaster-tarski-least-fixpoint-solver-skill",
+  "version": "1.0.0",
+  "description": "Knaster-Tarski least fixpoint iterative solver computing greatest lower bounds and invariant convergence over complete finite lattices.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "knaster-tarski",
+    "fixpoint-theorem",
+    "lattice-theory",
+    "static-analysis"
+  ]
+}
